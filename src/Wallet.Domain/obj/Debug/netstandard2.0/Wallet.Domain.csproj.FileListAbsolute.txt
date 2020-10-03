@@ -1,9 +1,0 @@
-c:\Users\OnurV\wallet\src\Wallet.Domain\bin\Debug\netstandard2.0\Wallet.Domain.deps.json
-c:\Users\OnurV\wallet\src\Wallet.Domain\bin\Debug\netstandard2.0\Wallet.Domain.dll
-c:\Users\OnurV\wallet\src\Wallet.Domain\bin\Debug\netstandard2.0\Wallet.Domain.pdb
-c:\Users\OnurV\wallet\src\Wallet.Domain\obj\Debug\netstandard2.0\Wallet.Domain.csprojAssemblyReference.cache
-c:\Users\OnurV\wallet\src\Wallet.Domain\obj\Debug\netstandard2.0\Wallet.Domain.AssemblyInfoInputs.cache
-c:\Users\OnurV\wallet\src\Wallet.Domain\obj\Debug\netstandard2.0\Wallet.Domain.AssemblyInfo.cs
-c:\Users\OnurV\wallet\src\Wallet.Domain\obj\Debug\netstandard2.0\Wallet.Domain.csproj.CoreCompileInputs.cache
-c:\Users\OnurV\wallet\src\Wallet.Domain\obj\Debug\netstandard2.0\Wallet.Domain.dll
-c:\Users\OnurV\wallet\src\Wallet.Domain\obj\Debug\netstandard2.0\Wallet.Domain.pdb
